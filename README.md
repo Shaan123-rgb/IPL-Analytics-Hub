@@ -49,7 +49,7 @@ ipl_data/
 ├── .streamlit/
 │   └── config.toml               # Native Streamlit dark mode configuration
 │
-└── views/                        # Modular UI components
+└── views/                        # UI components
     ├── home.py
     ├── dataset.py
     ├── overview.py
