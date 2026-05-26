@@ -1,0 +1,24 @@
+/* Minimal custom CSS to enhance the native dark theme */
+
+/* headers */
+h1, h2, h3 {
+    color: #D4AF37 !important; /* Gold */
+    font-weight: 700 !important;
+}
+
+/* metric values */
+[data-testid="stMetricValue"] {
+    color: #D4AF37 !important;
+}
+
+/* dividers */
+hr {
+    border-top: 2px solid #374151 !important;
+    opacity: 0.5;
+}
+
+/* dataframe headers */
+thead tr th {
+    background-color: #1F2937 !important;
+    color: #D4AF37 !important;
+}
